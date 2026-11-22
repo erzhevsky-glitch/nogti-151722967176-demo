@@ -203,3 +203,6 @@ main { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gut); }
 }
 
 h1,h2,h3,h4,p,li,a,span,button{-webkit-hyphens:manual;hyphens:manual}
+
+/* Лесс Арт: насыщенная пудра (просьба 22.11) – при пересборке дописать снова, см. brief.md */
+:root{--c-canvas:#f4e0e3;--c-surface:#fcf2f4;--c-ink:#2d2428;--c-ink-soft:#6b5860;--c-accent:#b4566e;--c-accent-ink:#ffffff;--c-accent-deep:#8c3f55}
